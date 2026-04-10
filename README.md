@@ -3,11 +3,13 @@
 </p>
 
 <p align="center">
-  <b>Fast and Valid Credit Card Generator using Luhn Algorithm.</b><br>
+  <b>Fast and Valid Free Credit Card Generator With Luhn Algorithm.</b><br>
   <i>No external dependencies - Works everywhere</i>
 </p>
 
 ---
+
+
 
 ## 🚀 Features
 - **Luhn Algorithm:** Generates 100% mathematically valid card numbers.
