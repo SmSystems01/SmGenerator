@@ -13,9 +13,9 @@
 
 ## 🚀 Features
 - **Luhn Algorithm:** Generates 100% mathematically valid card numbers.
-- **Custom BIN Support:** Generate cards based on your specific BIN.
-- **Fast Generation:** Can generate 100,000+ cards in seconds.
+- **No Quantity Limit:** Can generate 100,000+ cards in seconds.
 - **Cross-Platform:** Works on Termux, Linux, Windows, and macOS.
+- **Build:** Python
 
 ## 📥 Installation
 
