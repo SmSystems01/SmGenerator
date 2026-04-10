@@ -16,13 +16,13 @@
 
 
 
-## 🚀 Features
+# 🚀 Features
 - **Luhn Algorithm:** Generates 100% mathematically valid card numbers.
 - **No Quantity Limit:** Can generate 100,000+ cards in seconds.
 - **Cross-Platform:** Works on Termux, Linux, Windows, and macOS.
 - **Build:** Python
 
-## 📥 Installation
+# 📥 Installation
 
     ```bash
     $ git clone https://github.com/SmSystems01/SmGenerator.git
@@ -30,7 +30,7 @@
     $ python smgenerator.py
 
 
-## 📕Description
+# 📕Description
 
 *If you use this tool to commit fraud, you are solely responsible; I assume no liability whatsoever.*
 
