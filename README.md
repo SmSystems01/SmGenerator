@@ -24,7 +24,15 @@
 
 ## 📥 Installation
 
-```bash
-$ git clone https://github.com/SmSystems01/SmGenerator.git
-$ cd SmGenerator
-$ python smgenerator.py
+    ```bash
+    $ git clone https://github.com/SmSystems01/SmGenerator.git
+    $ cd SmGenerator
+    $ python smgenerator.py
+
+
+## 📕Description
+
+*If you use this tool to commit fraud, you are solely responsible; I assume no liability whatsoever.*
+
+
+
