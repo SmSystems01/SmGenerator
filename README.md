@@ -9,9 +9,9 @@
 
 ---
 
-| | |
-| :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/d50940e2-c52a-402c-8cd7-784009162fff" width="280"> | <img src="https://github.com/user-attachments/assets/c549da34-ceaf-4c25-8e40-2c5fbd66b469" width="280"> |
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d50940e2-c52a-402c-8cd7-784009162fff" width="350" alt="Preview">
+</p>
 
 
 ## 🚀 Features
