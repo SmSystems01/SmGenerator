@@ -20,6 +20,6 @@
 ## 📥 Installation
 
 ```bash
-$ git clone $ https://github.com/SmSystems01/SmGenerator.git
-$cd SmGenerator
+$ git clone https://github.com/SmSystems01/SmGenerator.git
+$ cd SmGenerator
 $ python smgenerator.py
