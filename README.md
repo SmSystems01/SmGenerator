@@ -34,5 +34,18 @@
 
 *If you use this tool to commit fraud, you are solely responsible; I assume no liability whatsoever.*
 
+<p align="center">
+  <h2 align="center">📢 Channel</h2>
+  <a href="https://t.me/SmSystems0" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram" alt="Telegram Channel">
+  </a>
+</p>
 
+
+<p align="center">
+  <h2 align="center">👨‍💻 Contact Developer</h2>
+  <a href="https://t.me/SmSystems01" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Contact%20Me-blue?style=for-the-badge&logo=telegram" alt="Contact Developer">
+  </a>
+</p
 
